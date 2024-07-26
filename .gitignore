@@ -1,0 +1,9 @@
+# Data/Packages/User
+
+*
+!c.sublime-build
+!Default (Windows).sublime-keymap
+!Default.sublime-commands
+!Package Control.sublime-settings
+!Preferences.sublime-settings
+!.gitignore

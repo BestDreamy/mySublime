@@ -1,0 +1,18 @@
+[
+    {
+        "caption": "Git Bash (panel)",
+        "command": "terminus_open",
+        "args":
+        {
+            "cmd":
+            [
+                "D:\\Git\\bin\\bash.exe",
+                "-i",
+                "-l"
+            ],
+            "cwd": "${file_path:${folder}}",
+            "title": "Git Bash",
+            "panel_name": "Terminus"
+        }
+    }
+]
